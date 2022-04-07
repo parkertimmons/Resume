@@ -1,3 +1,5 @@
+/*Parker Timmons 4/7/2022*/
+
 .foot {
 text-align: justify;
 margin-left: 220px;
@@ -25,9 +27,9 @@ margin-left: 150px;
 
 .div {
 font-size: x-small;
-border-bottom: 3px;
-margin-bottom: 20pt;
-margin-left: 10pt;
+align-items: center;
+
+
 }
 
 .tableau {
@@ -38,4 +40,8 @@ border-style: dotted;
 justify-content: center;
 
 }
+li {font-weight: bold;}
 
+a {font-weight: lighter;
+
+}

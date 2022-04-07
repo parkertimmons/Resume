@@ -31,8 +31,8 @@ display: inline-block;
 vertical-align: top;
 }
 .foot {
-text-align: justify;
-margin-left: 220px;
+text-align: center;
+margin-left: 150px;
 }
 
 iframe {
@@ -49,8 +49,23 @@ text-align: left;
 margin-left: 0;
 }
 
-li {
-
-
+li {font-family: 'Times New Roman', Times, serif;
+font-style: normal;
 
 }
+
+.fav {
+font-size: larger;
+font-weight: bolder;
+color: darkblue;
+}
+
+.top{
+font-size: smaller;
+font-weight: lighter;
+margin-left: 150px;
+
+}
+
+
+
